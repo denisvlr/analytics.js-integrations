@@ -6,4 +6,4 @@
 module.exports = [
   require('./lib/google-analytics'),
   require('./lib/mixpanel')
-]; 
+];
